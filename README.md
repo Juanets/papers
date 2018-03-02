@@ -1,6 +1,13 @@
 # Papers
 A collection of useful articles and research papers about data science.
 
+## How to Read a Paper
+[A paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) explaining the **three-pass approach**: a way for reading academic papers efficiently.
+
+> The *first pass* gives you a general idea about the paper.  
+The *second pass* lets you grasp the paper’s content, but not its details.  
+The *third pass* helps you understand the paper in depth.
+
 ### 1. [A Machine Learning Framework to Identify Students at Risk of Adverse Academic Outcomes](https://dssg.uchicago.edu/wp-content/uploads/2016/04/montogmery-kd2015.pdf)
   * Comparison of multiple algorithms (logistic regression, random forests, SVMs and others)
   * Evaluation of said algorithms using ROC curves, precision/recall, empirical risk
