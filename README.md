@@ -21,3 +21,7 @@ The *third pass* helps you understand the paper in depth.
   * An approach to deploying machine learning and deep learning models in real-time
   * Insightful descriptions of Facebook's workflow: data > training algorithms > deployment / research
   * Very interesting details about Facebook's algorithms (Lumos, Facer, News Feed...)
+### 4. [Aequitas: An Open Source Bias Audit Toolkit for Machine Learning Developers](http://dsapp.uchicago.edu/aequitas/)
+  * Aimed mainly at social-good data applications (i.e. AI that affects people in some way).
+  * Machine learning algorithms have bias—yes, all of them. 
+  * This tool helps developers evaluate and visualize bias in their algorithms.
