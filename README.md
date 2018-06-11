@@ -25,3 +25,7 @@ The *third pass* helps you understand the paper in depth.
   * Aimed mainly at social-good data applications (i.e. AI that affects people in some way).
   * Machine learning algorithms have bias—yes, all of them. 
   * This tool helps developers evaluate and visualize bias in their algorithms.
+### 5. [Exploratory data analysis and visualization of song lyrics](https://blancas.io/song-lyrics/)
+  * Extensive in-depth analysis and natural language processing techniques
+  * Features language detection, sentiment analysis, chloropeth maps and more graphs
+  * Answers interesting questions like how lyric topics changed over time
