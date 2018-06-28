@@ -1,4 +1,4 @@
-# Papers
+ # Papers
 A collection of useful articles and research papers about data science.
 
 ## How to Read a Paper
@@ -29,3 +29,7 @@ The *third pass* helps you understand the paper in depth.
   * Extensive in-depth analysis and natural language processing techniques
   * Features language detection, sentiment analysis, chloropeth maps and more graphs
   * Answers interesting questions like how lyric topics changed over time
+### 6. [What does your smartphone know about you?](https://www.kaggle.com/morrisb/what-does-your-smartphone-know-about-you)
+  * A controlled experiment where 30 participants performed daily activities holding a smartphone
+  * Thorough exploratory data analysis
+  * Interesting results with code
