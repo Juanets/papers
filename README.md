@@ -33,3 +33,8 @@ The *third pass* helps you understand the paper in depth.
   * A controlled experiment where 30 participants performed daily activities holding a smartphone
   * Thorough exploratory data analysis
   * Interesting results with code
+### 7. [LSTM: Long short-term memory](https://skymind.ai/wiki/lstm)
+  * A not-so-long article explaning the importance of LSTMs in Recurrent Neural Networks
+  * Comprehensible every-day-life analogies 
+  * Also explains LSTM Cells for solving the [*vanishing gradient problem*](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
+  * Strong focus on text generation and NLP
