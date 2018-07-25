@@ -38,3 +38,7 @@ The *third pass* helps you understand the paper in depth.
   * Comprehensible every-day-life analogies 
   * Also explains LSTM Cells for solving the [*vanishing gradient problem*](https://en.wikipedia.org/wiki/Vanishing_gradient_problem)
   * Strong focus on text generation and NLP
+### 8. [Some Like It Bot](https://fivethirtyeight.com/features/some-like-it-bot/)
+  * An article exploring the role of AI in entertainment
+  * Portrays the AI-human relationship
+  * An inspiration for [ghostwriter](https://github.com/Juanets/ghostwriter) and [textgenrnn's interactive mode](https://github.com/minimaxir/textgenrnn/pull/52)
