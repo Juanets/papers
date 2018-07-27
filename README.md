@@ -42,3 +42,7 @@ The *third pass* helps you understand the paper in depth.
   * An article exploring the role of AI in entertainment
   * Portrays the AI-human relationship
   * An inspiration for [ghostwriter](https://github.com/Juanets/ghostwriter) and [textgenrnn's interactive mode](https://github.com/minimaxir/textgenrnn/pull/52)
+### 9. [Estimating an Optimal Learning Rate For a Deep Neural Network](https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0)
+  * Explains a bit about the importance of the learning rate parameter
+  * Lists different ways of tuning learning rate, and proposes a "smarter way"
+  * Provides Python implementation with plots (learning rate vs. loss)
