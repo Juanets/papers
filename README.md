@@ -46,3 +46,7 @@ The *third pass* helps you understand the paper in depth.
   * Explains a bit about the importance of the learning rate parameter
   * Lists different ways of tuning learning rate, and proposes a "smarter way"
   * Provides Python implementation with plots (learning rate vs. loss)
+### 10. [What do machine learning practitioners actually do?](http://www.fast.ai/2018/07/12/auto-ml-1/)
+  * A wide perspective of working in the machine learning industry
+  * Lists complications when building data products
+  * Common machine-learning-practitioner activities
