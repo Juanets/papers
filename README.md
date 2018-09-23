@@ -50,3 +50,8 @@ The *third pass* helps you understand the paper in depth.
   * A wide perspective of working in the machine learning industry
   * Lists complications when building data products
   * Common machine-learning-practitioner activities
+### 11. [Practical guide to hyperparameters search for deep learning models](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
+  * Explains limitations of hyperparameter optimization
+  * Breaks down different hyperparameter search techniques
+  * The power of stopping earlier
+  * Promises a good, potential future with Google's AutoML
