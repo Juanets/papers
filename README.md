@@ -55,3 +55,8 @@ The *third pass* helps you understand the paper in depth.
   * Breaks down different hyperparameter search techniques
   * The power of stopping earlier
   * Promises a good, potential future with Google's AutoML
+### 12. [Deploy a Keras model using TensorFlow Serving and Flask](https://towardsdatascience.com/deploying-keras-models-using-tensorflow-serving-and-flask-508ba00f1037)
+  * Explains how to use and implement a TF Serving server
+  * Code to transform a Keras model (`.hdf5`) into a TensorFlow model (`.pb`)
+  * Setup of a Flask server to consume the Serving server through an API (probably doable in Django)
+  * Handling of Cross-Origin requests (author uses Angular as an example)
