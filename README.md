@@ -60,3 +60,8 @@ The *third pass* helps you understand the paper in depth.
   * Code to transform a Keras model (`.hdf5`) into a TensorFlow model (`.pb`)
   * Setup of a Flask server to consume the Serving server through an API (probably doable in Django)
   * Handling of Cross-Origin requests (author uses Angular as an example)
+### 13. [Twitter turing test: Identifying social machines](https://www.sciencedirect.com/science/article/pii/S0020025516306077)
+  * A supervised machine learning approach for twitter bot detection
+  * Explains how they built the corpus and feature extraction
+  * Demonstrates proposed classifiers and evaluates their performance
+  * Applies gained knowledge to create a browser extension that detects potential spam in real-time
