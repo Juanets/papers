@@ -1,6 +1,21 @@
  # Papers
 A collection of useful articles and research papers about data science.
 
+## Table of Contents
+1. [A Machine Learning Framework to Identify Students at Risk of Adverse Academic Outcomes](#1-a-machine-learning-framework-to-identify-students-at-risk-of-adverse-academic-outcomes)
+2. [Discovering Types for Entity Disambiguation](#2-discovering-types-for-entity-disambiguation)
+3. [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](#3-applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective)
+4. [Aequitas: An Open Source Bias Audit Toolkit for Machine Learning Developers](#4-aequitas-an-open-source-bias-audit-toolkit-for-machine-learning-developers)
+5. [Exploratory data analysis and visualization of song lyrics](#5-exploratory-data-analysis-and-visualization-of-song-lyrics)
+6. [What does your smartphone know about you?](#6-what-does-your-smartphone-know-about-you)
+7. [LSTM: Long short-term memory](#7-lstm-long-short-term-memory)
+8. [Some Like It Bot](#8-some-like-it-bot)
+9. [Estimating an Optimal Learning Rate For a Deep Neural Network](#9-estimating-an-optimal-learning-rate-for-a-deep-neural-network)
+10. [What do machine learning practitioners actually do?](#10-what-do-machine-learning-practitioners-actually-do)
+11. [Practical guide to hyperparameters search for deep learning models](#11-practical-guide-to-hyperparameters-search-for-deep-learning-models)
+12. [Deploy a Keras model using TensorFlow Serving and Flask](#12-deploy-a-keras-model-using-tensorflow-serving-and-flask)
+13. [Twitter turing test: Identifying social machines](#13-twitter-turing-test-identifying-social-machines)
+  
 ## How to Read a Paper
 [A paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) explaining the **three-pass approach**: a way for reading academic papers efficiently.
 
